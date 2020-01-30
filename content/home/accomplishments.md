@@ -24,6 +24,9 @@ date_format = "Jan 2006"
   title = "Chongqing Division Bronze Award"
   date_start = "2017-07-10"
 
-
+[[item]]
+  title = "Silian Enterprise Scholarships "
+  date_start = "2017-10-01"
+  
 
 +++

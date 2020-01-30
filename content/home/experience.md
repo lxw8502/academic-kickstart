@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-28"
   date_end = "2019-03-24"
   description = """
-    Responsibilities include:
+  Responsibilities include:
   
   * Responsible for the competitive analysis of tariff packages in the telecommunications industry. 
   * Review telecommunications tariff packages and the preparation of the training set. 

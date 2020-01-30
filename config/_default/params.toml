@@ -90,7 +90,7 @@ address = {street = "930 Benge Dr", city = "Arlington", region = "TX", postcode 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.732445", longitude = "-97.113547"}
+coordinates = {latitude = "32.730284", longitude = "-97.112095"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -105,8 +105,8 @@ coordinates = {latitude = "32.732445", longitude = "-97.113547"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://www.linkedin.com/in/lijun-wang-7838761a0/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "envelope", icon_pack = "fas", name = "lijun.wang@mavs.uta.edu", link = "mailto:lijun.wang@mavs.uta.edu"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/lijun-wang-7838761a0/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -176,13 +176,13 @@ plugins_js  = []
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 
 # Configuration of publication pages.
-[publications]
+# [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  # date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  # citation_style = "apa"
 
 # Configuration of project pages.
 [projects]

@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Lijun Wang is a graduate student of Computer Scinence at the University of Texas at Arlington.At the same time, he is also a graduate student of Software Engineering at Beijing University of Posts and Telecommunications. He had two internship experience in China. His research interests include Front-end development, Artificial Intellegi and Data Science. His programming language is JavaScript, Java, Python and C++. 
+Lijun Wang is a graduate student of Computer Scinence at the University of Texas at Arlington. At the same time, he is also a graduate student of Software Engineering at Beijing University of Posts and Telecommunications. He had two internship experience in China. His research interests include Front-end development, Artificial Intelligence and Data Science. His programming language is JavaScript, Java, Python and C++. He believe "Cleverness is a gift, kindness is a choice".
 
 

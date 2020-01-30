@@ -15,12 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "browser"
+  icon = "tv"
   icon_pack = "fas"
   name = "Front-end Development"
   
 [[feature]]
-  icon = "computer-classic"
+  icon = "file-code"
   icon_pack = "fas"
   name = "Programming"
   
@@ -31,7 +31,7 @@ subtitle = ""
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Data Mining"
   
 [[feature]]

@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Front-end development intern"
+  company = "Yonyou Software Co., Ltd. "
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  location = "Beijing, China"
+  date_start = "March, 2019"
+  date_end = "Auguest, 2019"
+  description = """ 
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Front-end development
+  * Java development
+  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Intern"
+  company = "China Telecom Beijing Research Institute"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing, China"
+  date_start = "October, 2018"
+  date_end = "March, 2019"
+  description = """
+    Responsibilities include:
+  
+  * Responsible for the competitive analysis of tariff packages in the telecommunications industry. 
+  * Review telecommunications tariff packages and the preparation of the training set. 
+  * Classify the articles of the telecom operator's WeChat public number and website. 
+  """
 
 +++

@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Yonyou Software Co., Ltd. "
   company_url = ""
   location = "Beijing, China"
-  date_start = "March, 2019"
-  date_end = "Auguest, 2019"
+  date_start = "2019-03-30"
+  date_end = "2019-08-02"
   description = """ 
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "China Telecom Beijing Research Institute"
   company_url = ""
   location = "Beijing, China"
-  date_start = "October, 2018"
-  date_end = "March, 2019"
+  date_start = "2018-10-28"
+  date_end = "2019-03-24"
   description = """
     Responsibilities include:
   

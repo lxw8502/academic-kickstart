@@ -1,5 +1,7 @@
 ---
-title: "NLP With Disaster Tweesummary: "Summary of my post."
+title: "NLP With Disaster Tweets"
+# date: 2020-03-03T23:32:31-06:00
+summary: "Summary of my post."
 
 
 reading_time: false  # Show estimated reading time?
@@ -15,6 +17,7 @@ header:
 ---
 
 
+## 
 
 [kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
 

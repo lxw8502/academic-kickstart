@@ -6,9 +6,6 @@ date: 2020-04-02
 ---
 
 
-# Assignment 02
-
-
 ```python
 import pandas as pd
 import numpy as np
@@ -788,17 +785,6 @@ print('final accuracy:')
 calculate_accuracy(test_data, develop_data, 1, 'cosine_similarity')
 ```
 
-    final accuracy:
-    
+    final accuracy:0.96875
 
 
-
-
-    0.96875
-
-
-
-
-```python
-
-```

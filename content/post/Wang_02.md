@@ -772,7 +772,7 @@ plt.show()
 ```
 
 
-![png](./Wang_02_18_0.png)
+![png](https://github.com/lxw8502/academic-kickstart/blob/master/content/post/Wang_02_18_0.png)
 
 
 ## d.Using the test dataset

@@ -127,3 +127,7 @@ submission = pd.DataFrame({
 })
 submission.to_csv('submission_svc_basic.csv', index=False)
 ```
+
+Public Score: 0.78323
+
+[kaggle link](https://www.kaggle.com/chunshengwang/nlp-with-disaster-tweets)

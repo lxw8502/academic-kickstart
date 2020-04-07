@@ -126,7 +126,7 @@ develop_data
 
 
 
-
+[download](../../static/files/Wang_02.ipynb "download the ipynb file!")
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {

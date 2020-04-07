@@ -3,9 +3,10 @@ title: Assignment 02 KNN
 date: 2020-04-02
 
 # Put any other Academic metadata here...
-- icon: cv
-    icon_pack: ai
-    link: files/resume.pdf
+social:
+  - icon: cv
+      icon_pack: ai
+      link: files/resume.pdf
 ---
 
 
@@ -13,10 +14,6 @@ date: 2020-04-02
 
 <a href="https://github.com/lxw8502/academic-kickstart/blob/master/static/files/Wang_02.ipynb" target="_blank">github link</a>
 
-<!-- ---
-social:
-  
---- -->
 
 ```python
 import pandas as pd

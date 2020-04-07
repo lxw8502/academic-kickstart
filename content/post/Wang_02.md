@@ -3,10 +3,6 @@ title: Assignment 02 KNN
 date: 2020-04-02
 
 # Put any other Academic metadata here...
-social:
-  - icon: cv
-      icon_pack: ai
-      link: files/resume.pdf
 ---
 
 

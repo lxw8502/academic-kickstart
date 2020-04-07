@@ -6,10 +6,13 @@ date: 2020-04-02
 ---
 
 
+[download]((https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/static/files/Wang_02.ipynb "download the ipynb file!")
+
 ```python
 import pandas as pd
 import numpy as np
 ```
+
 
 ## loading dataset
 
@@ -124,9 +127,6 @@ print(len(develop_data),len(test_data))
 develop_data
 ```
 
-
-
-[download](../../static/files/Wang_02.ipynb "download the ipynb file!")
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {

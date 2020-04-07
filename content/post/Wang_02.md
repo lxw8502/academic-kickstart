@@ -6,7 +6,7 @@ date: 2020-04-02
 ---
 
 
-[download]((https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/static/files/Wang_02.ipynb "download the ipynb file!")
+[download](https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/static/files/Wang_02.ipynb "download the ipynb file!")
 
 ```python
 import pandas as pd

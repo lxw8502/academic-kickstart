@@ -8,6 +8,8 @@ date: 2020-04-02
 
 [download](https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/static/files/Wang_02.ipynb "download the ipynb file!")
 
+<a href="https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/static/files/Wang_02.ipynb" target="_blank">附件1</a>
+
 ```python
 import pandas as pd
 import numpy as np

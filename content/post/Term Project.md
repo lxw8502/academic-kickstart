@@ -340,8 +340,7 @@ plt.ylabel('Count')
 plt.show()
 ```
 
-
-![png](./Term%20Project_18_0.png)
+![png](https://raw.githubusercontent.com/lxw8502/academic-kickstart/master/content/post/Term%20Project_18_0.png)
 
 
 Remove punctuation and special characters from comments. The word_list filled with the split comments.
@@ -449,6 +448,8 @@ scores
 
 
 ```python
+from sklearn.externals import joblib
+
 joblib.dump(reg,'E:/RandomForest_reg.pkl')
 ```
 
